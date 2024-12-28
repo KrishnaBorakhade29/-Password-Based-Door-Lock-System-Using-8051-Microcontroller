@@ -1,0 +1,3 @@
+".\Objects\doorlock.obj" 
+TO ".\Objects\doorlock" 
+PRINT(".\Listings\doorlock.m51") RAMSIZE(256) 
